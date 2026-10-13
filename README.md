@@ -2,7 +2,7 @@
 
 **Data Science & Machine Learning** · Python · SQL · PyTorch · scikit-learn
 
-I build end-to-end machine learning pipelines, from data cleaning and exploratory analysis to model tuning and evaluation. My background in embedded systems (STM32 firmware, battery management) gives me a hands-on view of where real-world data comes from.
+MSc student in **Data Science, AI and Digital Business**, based in Berlin. I build end-to-end machine learning pipelines, from data cleaning and exploratory analysis to model tuning and evaluation. My background in embedded systems (STM32 firmware, battery management) gives me a hands-on view of where real-world data comes from.
 
 ### 🔧 Tech stack
 
