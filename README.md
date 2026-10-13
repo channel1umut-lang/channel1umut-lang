@@ -6,7 +6,7 @@ MSc student in **Data Science, AI and Digital Business**, based in Berlin. I wor
 
 ### 🔧 Tech stack
 
-- **Languages:** Python · SQL · C · JavaScript
+- **Languages:** Python · SQL · C 
 - **Data & ML:** pandas · NumPy · scikit-learn · PyTorch · torchvision · Matplotlib · Seaborn · TensorBoard
 - **Databases:** PostgreSQL · SQLite
 - **Tools:** Jupyter / Google Colab · Git · Next.js · STM32CubeIDE
